@@ -1,0 +1,8 @@
+sarvamai
+numpy
+sounddevice
+soundfile
+python-dotenv
+google-genai
+requests
+beautifulsoup4
